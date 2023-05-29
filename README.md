@@ -49,11 +49,11 @@ A collection of conferences, papers, code, projects, etc. related to artificial 
 
 - **MelNet: A Generative Model for Audio in the Frequency Domain** (4 Jun 2019) [[Paper](https://arxiv.org/pdf/1906.01083v1.pdf)] [[Code](https://github.com/fatchord/MelNet)]
 
-- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation** （31 Mar 2017）[[Paper](https://arxiv.org/pdf/1703.10847v2.pdf)] [Code](https://github.com/RichardYang40148/MidiNet)]
+- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation** （31 Mar 2017）[[Paper](https://arxiv.org/pdf/1703.10847v2.pdf)] [[Code](https://github.com/RichardYang40148/MidiNet)]
 
-- **Counterpoint by Convolution** (18 Mar 2019) [[Paper](https://arxiv.org/pdf/1903.07227v1.pdf)] [Code](https://github.com/czhuang/coconet)]
+- **Counterpoint by Convolution** (18 Mar 2019) [[Paper](https://arxiv.org/pdf/1903.07227v1.pdf)] [[Code](https://github.com/czhuang/coconet)]
 
-- **Compound Word Transformer: Learning to Compose Full-Song Music over Dynamic Directed Hypergraphs** (7 Jan 2021) [[Paper](https://arxiv.org/pdf/2101.02402v1.pdf)] [Code](https://github.com/YatingMusic/compound-word-transformer)]
+- **Compound Word Transformer: Learning to Compose Full-Song Music over Dynamic Directed Hypergraphs** (7 Jan 2021) [[Paper](https://arxiv.org/pdf/2101.02402v1.pdf)] [[Code](https://github.com/YatingMusic/compound-word-transformer)]
 
 - **It's Raw! Audio Generation with State-Space Models** (20 Feb 2022) [[Paper](https://arxiv.org/pdf/2202.09729v1.pdf)] [[Code](https://github.com/hazyresearch/state-spaces)]
 
