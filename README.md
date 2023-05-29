@@ -1,16 +1,15 @@
-# Generation-of-the-Music-with-AI
+# Generation-of-Music-via-AI
 A collection of conferences, papers, code, projects, etc. related to artificial intelligence generated music.
 
 ## Conferences
 
-- **ACM MM** - ACM MultiMedia [[Web](http://www.acmmm.org/2017)]
-- **ISMIR** - The International Society of Music Information Retrieval [[Web](http://www.ismir.net/)]
-- **ICASSP** - Conference on Acoustics, Speech and Signal Processing [[Web](http://www.ieee-icassp2017.org/)]
-- **DLM** - Deep Learning for Music Workshop [[Web](http://dorienherremans.com/dlm2017/)]
-- **CSMC** - Conference on Computer Simulation of Musical  Creativity [[Web](https://csmc2016.wordpress.com/)]
+- **ACM MM** - ACM MultiMedia [[Web](https://dl.acm.org/conference/mm)]
+- **ISMIR** - The International Society of Music Information Retrieval [[Web](https://ismir.net/)]
+- **ICASSP** - Conference on Acoustics, Speech and Signal Processing [[Web](https://2023.ieeeicassp.org/)]
+- **DLM** - Deep Learning for Music Workshop [[Web](https://dorienherremans.com/dlm2018/)]
+- **CSMC** - Conference on Computer Simulation of Musical Creativity [[Web](https://csmc2018.wordpress.com/)]
 - **CCRMA** - Center for Computer Research in Music and Acoustics (Stanford University) [[Web](https://ccrma.stanford.edu/)]
-- **ICMC** - Internatonal Computer Music Conference [[Web](http://www.icmc2017.com/)] [[Lists](http://www.icmc2017.com/cn/page1.html)]
-
+- **ICMC** - Internatonal Computer Music Conference [[Web](http://icmc2023.org.cn/_pc_/home_page/index)] 
 ## Conferences in 2023
 
 | **Date**     | **Acronym**      | **Title**                                                                                                             | **Location**                               | **Submission date** |
@@ -22,9 +21,9 @@ A collection of conferences, papers, code, projects, etc. related to artificial 
 | Oct 22, 2023 | WASPAA 2023      | 2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics [[Web](https://waspaa.com/)]                                        | Mohonk Mountain House (New Paltz, NY), USA | Apr 28, 2023        |
 | Sep 21, 2023 | DCASE 2023       | 8th Workshop on Detection and Classification of Acoustic Scenes and Events [[Web](https://dcase.community/workshop2023/)]                                            | Tampere, Finland                           | Jun 7, 2023         |
 | Sep 18, 2023 | MuRS2023         | Music Recommender Systems workshop at RecSys 2023 [[Web](https://sites.google.com/view/murs/home)]                                                                     | Singapore                                  | Aug 27, 2023        |
-| Sep 11, 2023 | FA 2023          | Forum Acusticum [[Web]([http://www.acmmm.org/2017](https://www.fa2023.org/))]                                                                                                       | Torino, Italy                              | Feb 15, 2023        |
+| Sep 11, 2023 | FA 2023          | Forum Acusticum [[Web](https://www.fa2023.org/)]                                                                                                       | Torino, Italy                              | Feb 15, 2023        |
 | Sep 4, 2023  | EUSIPCO 2023     | 31st European Signal Processing Conference [[Web](https://eusipco2023.org/)]                                                                            | Helsinki, Finland                          | Mar 10, 2023        |
-| Sep 4, 2023  | DAFX 2023        | Digital Audio Effects Conference [[Web]([http://www.acmmm.org/2017](https://dafx23.create.aau.dk/))]                                                                                      | Copenhagen, Denmark                        | Mar 24, 2023        |
+| Sep 4, 2023  | DAFX 2023        | Digital Audio Effects Conference [[Web](https://dafx23.create.aau.dk/)]                                                                                      | Copenhagen, Denmark                        | Mar 24, 2023        |
 | Aug 31, 2023 | AIMC 2023        | 4th Conference on AI Music Creativity [[Web](https://aimc2023.pubpub.org/)]                                                                                 | Sussex, UK                                 | Mar 7, 2023         |
 | Aug 30, 2023 | AudioMostly 2023 | AudioMostly 2023 [[Web](https://audiomostly.com/2023/)]                                                                                                      | Edinburgh, UK                              | May 8, 2023         |
 | Jul 23, 2023 | ITAVMS 2023      | Workshop on Interactive Technologies for Analysing and Visualizing Musical Structure (part of HCI International 2023) [[Web](https://2023.hci.international/W1.html)] | Copenhagen, Denmark                        | Apr 1, 2023         |
@@ -42,58 +41,38 @@ A collection of conferences, papers, code, projects, etc. related to artificial 
 | Jan 9, 2023  | MMM 2023         | 29th International Conference on MultiMedia Modeling [[Web](http://mmm2023.no/)]                                                                  | Bergen, Norway                             | Aug 19, 2022        |
 
 
-## Papers
+## Papers (Sort by Implementation)
 
-- **Melody Generation for Pop Music via Word Representation of Musical Properties** (2017.10) [[arXiv](https://arxiv.org/abs/1710.11549)] [[Code](https://github.com/mil-tokyo/NeuralMelody)]
+- **MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment** (19 Sep 2017) [[Paper](https://arxiv.org/pdf/1709.06298v2.pdf)] [[Code](https://github.com/salu133445/musegan)]
 
-- **Generating Nontrivial Melodies for Music as a Service** (2017.10) [[arXiv](https://arxiv.org/abs/1710.02280)] [[Page](https://composing.ai)]
+- **This Time with Feeling: Learning Expressive Musical Performance** (10 Aug 2018) [[Paper](https://arxiv.org/pdf/1808.03715v1.pdf)] [[Code](https://github.com/Natooz/MidiTok)]
 
-- **MuseGAN: Symbolic-domain Music Generation and Accompaniment with Multi-track Sequential Generative Adversarial Networks** (2017.9) [[arXiv](https://arxiv.org/abs/1709.06298)] [[Page](https://salu133445.github.io/musegan/)]
+- **MelNet: A Generative Model for Audio in the Frequency Domain** (4 Jun 2019) [[Paper](https://arxiv.org/pdf/1906.01083v1.pdf)] [[Code](https://github.com/fatchord/MelNet)]
 
-- **Similarity Embedding Network for Unsupervised Sequential Pattern Learning by Playing Music Puzzle Games** （2017.9）[[arXiv](https://arxiv.org/abs/1709.04384)] [[Page](https://remyhuang.github.io/DJnet)]
+- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation** （31 Mar 2017）[[Paper](https://arxiv.org/pdf/1703.10847v2.pdf)] [Code](https://github.com/RichardYang40148/MidiNet)]
 
-- **A Tutorial on Deep Learning for Music Information Retrieval** (2017.9) [[arXiv](https://arxiv.org/abs/1709.04396)]
+- **Counterpoint by Convolution** (18 Mar 2019) [[Paper](https://arxiv.org/pdf/1903.07227v1.pdf)] [Code](https://github.com/czhuang/coconet)]
 
-- **Deep Learning Techniques for Music Generation - A Survey** (2017.9) [[arXiv](https://arxiv.org/abs/1709.01620)]
+- **Compound Word Transformer: Learning to Compose Full-Song Music over Dynamic Directed Hypergraphs** (7 Jan 2021) [[Paper](https://arxiv.org/pdf/2101.02402v1.pdf)] [Code](https://github.com/YatingMusic/compound-word-transformer)]
 
-- **Neural Translation of Musical Style** (2017.8) [[arXiv](https://arxiv.org/abs/1708.03535)] [[Page](http://imanmalik.com/cs/2017/06/05/neural-style.html)]
+- **It's Raw! Audio Generation with State-Space Models** (20 Feb 2022) [[Paper](https://arxiv.org/pdf/2202.09729v1.pdf)] [[Code](https://github.com/hazyresearch/state-spaces)]
 
-- **GLSR-VAE: Geodesic Latent Space Regularization for Variational AutoEncoder Architectures** (2017.7) [[arXiv](https://arxiv.org/abs/1707.04588)]
+- **Convolutional Generative Adversarial Networks with Binary Neurons for Polyphonic Music Generation** (25 Apr 2018) [[Paper](https://arxiv.org/pdf/1804.09399v3.pdf)] [[Code](https://github.com/salu133445/musegan)]
 
-- **Learning and Evaluating Musical Features with Deep Autoencoders** (2017.6) [[arXiv](https://arxiv.org/abs/1706.04486)]
+- **MMM : Exploring Conditional Multi-Track Music Generation with the Transformer** (13 Aug 2020) [[Paper](https://arxiv.org/pdf/2008.06048v2.pdf)] [[Code](https://github.com/Natooz/MidiTok)]
 
-- **Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models** (2017.5) [[arXiv](https://arxiv.org/abs/1705.10843)] [[Code](https://github.com/gablg1/ORGAN)]
+- **A Critical Review of Recurrent Neural Networks for Sequence Learning** (29 May 2015) [[Paper](https://arxiv.org/pdf/1506.00019v4.pdf)] [[Code](https://github.com/junwang23/deepdirtycodes)]
 
-- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions** - **ISMIR 2017** (2017.3) [[arXiv](https://arxiv.org/abs/1703.10847)] [[Page](https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html)] 
+- **Deep Learning for Music** (15 Jun 2016) [[Paper](https://arxiv.org/pdf/1606.04930v1.pdf)] [[Code](https://github.com/sarthak15169/Deep-Music)] 
 
-- **Automatic Conversion of Pop Music into Chiptunes for 8-bit Pixel Art** - **ICASSP 2017** (2017.2) [[Paper](http://mac.citi.sinica.edu.tw/~yang/pub/su17icassp_8bit.pdf)] [[Code](https://github.com/LemonATsu/pop-to-8bit)] [[Page](https://lemonatsu.github.io)]
+- **The NES Music Database: A multi-instrumental dataset with expressive performance attributes** (12 Jun 2018) [[Paper](https://arxiv.org/pdf/1806.04278v1.pdf)] [[Code](https://github.com/chrisdonahue/nesmdb)] 
 
+- **Lead Sheet Generation and Arrangement by Conditional Generative Adversarial Network** (30 Jul 2018) [[Paper](https://arxiv.org/pdf/1807.11161v1.pdf)] [[Code](https://github.com/liuhaumin/LeadsheetArrangement)] 
 
-- **C-RNN-GAN: Continuous Recurrent Neural Networks with Adversarial Training** (2016.11) [[arXiv](https://arxiv.org/abs/1611.09904)] [[Code](https://github.com/olofmogren/c-rnn-gan)]
+- **Improving Polyphonic Music Models with Feature-Rich Encoding** (26 Nov 2019) [[Paper](https://arxiv.org/pdf/1911.11775v3.pdf)] [[Code](https://github.com/omarperacha/TonicNet)] 
 
-- **Tuning Recurrent Neural Networks with Reinforcement Learning - ICLR 2017** (2016.11) [[arXiv](https://arxiv.org/abs/1611.02796)] [[Web](https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning)] [[Code](https://github.com/tensorflow/magenta/tree/master/magenta/models/rl_tuner)]
+- **Attentional networks for music generation** (6 Feb 2020) [[Paper](https://arxiv.org/pdf/2002.03854v1.pdf)] [[Code](https://github.com/safakkbilici/Synthetic-Music-Generation-with-Deep-Neural-Networks)] 
 
-- **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient** - **AAAI 2017** (2016.9) [[Paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)] [[Code](https://github.com/LantaoYu/SeqGAN)]
-
-- **Song From PI: A Musically Plausible Network for Pop Music Generation** - **ICLR 2017** [[arXiv](https://arxiv.org/abs/1611.03477)]
-
-- **Text-based LSTM networks for Automatic Music Composition** (2016.4) [[arXiv](https://arxiv.org/abs/1604.05358#)] [[Web](https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/)] [[Code](https://github.com/keunwoochoi/LSTMetallica)]
-
-- **Music Transcription Modelling and Composition Using Deep Learning** (2016.4) [[arXiv](https://arxiv.org/abs/1604.08723)] [[Code](https://github.com/IraKorshunova/folk-rnn)]
-
-- **Composing A Melody with Long-short Term Memory (LSTM) Recurrent Neural Networks** (2016.2) [[Web](http://konstilackner.github.io/LSTM-RNN-Melody-Composer-Website/)] [[Code](https://github.com/konstilackner/LSTM-RNN-Melody-Composer)] [[Paper](http://konstilackner.github.io/LSTM-RNN-Melody-Composer-Website/Thesis_final01.pdf)]
-
-- **Neural Adaptive Sequential Monte Carlo - NIPS 2015** (2015) [[Paper](http://papers.nips.cc/paper/5961-neural-adaptive-sequential-monte-carlo.pdf)]
-
-- **A Recurrent Latent Variable Model for Sequential Data - NIPS 2015** (2015) [[Paper](http://papers.nips.cc/paper/5653-a-recurrent-latent-variable-model-for-sequential-data.pdf)] [[Code](https://github.com/jych/nips2015_vrnn)]
-
-- **AI Methods in Algorithmic Composition: A Comprehensive Survey** (2013) [[Paper](https://arxiv.org/abs/1402.0585)]
-
-- **Modeling Temporal Dependencies in High-dimensional Sequences: Application to Polyphonic Music Generation and Transcription** (2012) [[arXiv](https://arxiv.org/abs/1206.6392)] 
-
-- **Towards Adaptive Music Generation By Reinforcement Learning of Musical Tension** (2010) [[Paper](https://ccrma.stanford.edu/~slegroux/affect/pubs/SMC2010.pdf)]
-
-- **A First Look at Music Composition using LSTM Recurrent Neural Networks** (2002) [[Web](http://www.iro.umontreal.ca/~eckdoug/blues/index.html)] [[Paper](http://www.iro.umontreal.ca/~eckdoug/blues/IDSIA-07-02.pdf)]
 
 ## Codes
 
@@ -103,11 +82,11 @@ A collection of conferences, papers, code, projects, etc. related to artificial 
 
 - **BachBot** [[Web](http://bachbot.com/)] [[Code](https://github.com/feynmanliang/bachbot/)]
 
-- **WaveNet** [[Code](https://github.com/ibab/tensorflow-wavenet)] (not fully)
+- **WaveNet** [[Web](https://www.deepmind.com/research/highlighted-research/wavenet)] [[Code](https://github.com/ibab/tensorflow-wavenet)]
 
-- **GRUV** [[Code](https://github.com/MattVitelli/GRUV)]
+- **GRUV** [[Web](https://www.youtube.com/watch?v=0VTI1BBLydE)] [[Code](https://github.com/MattVitelli/GRUV)]
 
-- **Kulitta** [[Code](https://github.com/donya/Kulitta)]
+- **Kulitta** [[Web](http://www.donyaquick.com/kulitta)] [[Code](https://github.com/donya/Kulitta)]
 
 ## Projects
 
@@ -118,11 +97,34 @@ A collection of conferences, papers, code, projects, etc. related to artificial 
 - **Unwind** [[Link](http://unwind.ai)]
 - **Tidalcycles** [[Link](https://tidalcycles.org)] [[Video](https://www.youtube.com/watch?v=xoa3OT8ncX0)]
 
-## Blogs
+## Libraries 
 
-- **Neural Nets for Generating Music** [[Web](https://medium.com/@kcimc/neural-nets-for-generating-music-f46dffac21c0)]
+- **Natooz/MidiTok** [[Link](https://github.com/Natooz/MidiTok)]
 
-- **Generative Music with JavaScript & Web Audio** [[Web](https://teropa.info/generative-music-slides/)]
+- **microsoft/muzic** [[Link](https://github.com/microsoft/muzic)]
 
-- **The Current State Of AI: Artificial Intelligence In Music, Movies & More** (2017.7) [[Web](http://www.hypebot.com/hypebot/2017/07/ai-today-the-current-state-of-artificial-intelligence.html)]
-- **Composing Music With Recurrent Neural Networks** (2015.8) [[Web](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)] [[Code](https://github.com/hexahedria/biaxial-rnn-music-composition)]
+- **carlosholivan/musicaiz** [[Link](https://github.com/carlosholivan/musicaiz)]
+
+- **lucylow/Stochastic_SoundCloud** [[Link](https://github.com/lucylow/Stochastic_SoundCloud)] 
+
+## Datasets
+
+- **NSynth** [[Link](https://magenta.tensorflow.org/datasets/nsynth)]
+
+- **MAESTRO** [[Link](https://magenta.tensorflow.org/datasets/maestro)]
+
+- **JSB Chorales** [[Link](http://www-etud.iro.umontreal.ca/~boulanni/icml2012)]
+
+- **MuseData** [[Link](https://musedata.org/)] 
+
+- **Lakh MIDI Dataset** [[Link](https://colinraffel.com/projects/lmd/)]
+
+- **URMP (University of Rochester Multi-Modal Musical Performance)** [[Link](http://www2.ece.rochester.edu/projects/air/projects/URMP.html)]
+
+- **Music21** [[Link](http://web.mit.edu/music21/)]
+
+- **POP909** [[Link](https://github.com/music-x-lab/POP909-Dataset)] 
+
+- **VGMIDI** [[Link](https://github.com/lucasnfe/vgmidi)]
+
+- **Groove (Groove MIDI Dataset)** [[Link](https://magenta.tensorflow.org/datasets/groove)] 
